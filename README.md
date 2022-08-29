@@ -1,6 +1,6 @@
 <h1> Hi, I'm Zuly! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<p>I´m currently learning web development</p>
+
 
 <h4>Languages and tools:</h4>
 <div style="display: inline_block">
